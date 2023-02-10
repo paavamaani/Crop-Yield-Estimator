@@ -1,5 +1,7 @@
 # Crop-Yield-Estimator
 
+The platform provides farmers with information and tools to make informed decisions about their crops. It includes crop yield estimation, crop recommendation system based on soil factors, market information. The platform helps farmers to choose the best crop for their region, understand market prices and demand, and protect their investments.
+
 <img src="./images/Picture.png">
 
 Web app which commits to solve few problems faced by farmers and enhancing agriculture through Machine Learning.
