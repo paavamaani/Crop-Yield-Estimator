@@ -1,4 +1,4 @@
-# Plant-Disease-Predictor
+# Crop-Yield-Estimator
 
 <img src="./images/Picture.png">
 
@@ -74,6 +74,7 @@ Fertilizer Recommendation system is developed using the Decision Trees. Fertiliz
 This concludes the whole project features that we have developed.
 
 # Technical Details
+
 ## Various phases of the product
 
 1. WEB INTERFACE (UI)
