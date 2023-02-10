@@ -1,6 +1,6 @@
 # Crop-Yield-Estimator
 
-The platform provides farmers with information and tools to make informed decisions about their crops. It includes crop yield estimation, crop recommendation system based on soil factors, market information. The platform helps farmers to choose the best crop for their region, understand market prices and demand, and protect their investments.
+<p> The platform provides farmers with information and tools to make informed decisions about their crops. It includes crop yield estimation, crop recommendation system based on soil factors, market information. The platform helps farmers to choose the best crop for their region, understand market prices and demand, and protect their investments. Which is deployed in the AWS Elastic Compute Cloud (EC2) environment and is equipped with an autoscaling load balancer to manage high traffic demands </p>
 
 <img src="./images/Picture.png">
 
